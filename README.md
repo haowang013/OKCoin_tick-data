@@ -7,4 +7,4 @@ OKCoin offers us two interfaces including websocket and rest. However, the webso
 <br/>
 We use the PyQt5 to design the UI and users could see the tick and MA8 of the LTC and BTC.
 The final result as following:
-![image](https://github.com/richardwang013/OKCoin_tick_data/raw/master/ImageStore/result.PNG)
+![image](https://github.com/richardwang013/OKCoin_tick_data/raw/master/ImageStore/result.png)
